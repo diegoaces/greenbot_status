@@ -8,7 +8,9 @@ sites:
   - name: Reportabilidad Page
     url: https://reportabilidad.cl
   - name: Reportabilidad Tenant Page
-    url: https://public.reportabilidad.cl
+    url: https://public.reportabilidad.cl  
+  - name: Bosque Digital
+    url: https://bosquedigital.cl
 
 status-website:
   baseUrl: /greenbot_status
