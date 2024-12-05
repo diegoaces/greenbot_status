@@ -11,6 +11,10 @@ sites:
     url: https://public.reportabilidad.cl  
   - name: Bosque Digital
     url: https://bosquedigital.cl
+  - name: TMC
+    url: https://tmcforestal.cl
+    
+    
 
 status-website:
   baseUrl: /greenbot_status
