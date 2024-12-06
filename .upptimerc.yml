@@ -13,6 +13,14 @@ sites:
     url: https://bosquedigital.cl
   - name: TMC
     url: https://tmcforestal.cl
+  - name: BD Chillán
+    url: https://mosaicos.bosquedigital.cl
+  - name: BD Constitución
+    url: https://drone.bosquedigital.cl
+  - name: BD Arauco
+    url: https://sgm.bosquedigital.cl
+  - name: BD Valdivia
+    url: https://sgm-valdivia.bosquedigital.cl
     
     
 
