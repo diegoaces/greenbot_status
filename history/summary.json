@@ -97,18 +97,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mosaicos.bosquedigital.cl.ico",
     "slug": "bd-chillan",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.75%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 400,
     "timeDay": 424,
     "timeWeek": 400,
     "timeMonth": 400,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2024-12-09": 0
+      "2024-12-10": 2,
+      "2024-12-09": 11
     }
   },
   {
