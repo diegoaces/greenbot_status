@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bosquedigital.cl.ico",
     "slug": "bosque-digital",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.05%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
     "time": 1481,
     "timeDay": 1657,
     "timeWeek": 1545,
@@ -78,9 +78,9 @@
     "url": "https://tmcforestal.cl",
     "icon": "https://icons.duckduckgo.com/ip3/tmcforestal.cl.ico",
     "slug": "tmc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 296,
     "timeMonth": 304,
     "timeYear": 304,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-13": 0
+    }
   },
   {
     "name": "BD Chillán",
@@ -97,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mosaicos.bosquedigital.cl.ico",
     "slug": "bd-chillan",
     "status": "up",
-    "uptime": "92.70%",
-    "uptimeDay": "96.81%",
-    "uptimeWeek": "92.67%",
-    "uptimeMonth": "92.70%",
-    "uptimeYear": "92.70%",
+    "uptime": "93.02%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "92.75%",
+    "uptimeMonth": "93.02%",
+    "uptimeYear": "93.02%",
     "time": 375,
     "timeDay": 305,
     "timeWeek": 395,
     "timeMonth": 375,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2024-12-13": 45,
+      "2024-12-13": 37,
       "2024-12-10": 683,
       "2024-12-09": 11
     }
