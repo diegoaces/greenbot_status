@@ -81,19 +81,19 @@
     "url": "https://tmcforestal.cl",
     "icon": "https://icons.duckduckgo.com/ip3/tmcforestal.cl.ico",
     "slug": "tmc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 201,
-    "timeWeek": 325,
-    "timeMonth": 302,
-    "timeYear": 302,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 312,
+    "timeDay": 402,
+    "timeWeek": 360,
+    "timeMonth": 312,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2024-12-26": 0
+      "2024-12-26": 9
     }
   },
   {
