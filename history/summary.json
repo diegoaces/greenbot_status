@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/greenbot.cl.ico",
     "slug": "greenbot-labs",
     "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "98.49%",
+    "uptime": "98.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "98.50%",
     "time": 1132,
     "timeDay": 614,
     "timeWeek": 1091,
-    "timeMonth": 1284,
+    "timeMonth": 1286,
     "timeYear": 1132,
     "dailyMinutesDown": {
-      "2025-01-09": 2,
       "2024-12-25": 463,
       "2024-12-18": 366
     }
@@ -35,7 +34,7 @@
     "time": 354,
     "timeDay": 345,
     "timeWeek": 363,
-    "timeMonth": 341,
+    "timeMonth": 343,
     "timeYear": 354,
     "dailyMinutesDown": {}
   },
@@ -53,7 +52,7 @@
     "time": 529,
     "timeDay": 4306,
     "timeWeek": 1011,
-    "timeMonth": 550,
+    "timeMonth": 553,
     "timeYear": 529,
     "dailyMinutesDown": {}
   },
@@ -71,7 +70,7 @@
     "time": 1481,
     "timeDay": 1621,
     "timeWeek": 1424,
-    "timeMonth": 1503,
+    "timeMonth": 1494,
     "timeYear": 1481,
     "dailyMinutesDown": {
       "2024-12-03": 149
@@ -104,12 +103,12 @@
     "uptime": "92.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.33%",
+    "uptimeMonth": "91.36%",
     "uptimeYear": "92.34%",
     "time": 383,
     "timeDay": 357,
     "timeWeek": 405,
-    "timeMonth": 382,
+    "timeMonth": 380,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2024-12-18": 73,
@@ -136,7 +135,7 @@
     "time": 457,
     "timeDay": 390,
     "timeWeek": 398,
-    "timeMonth": 440,
+    "timeMonth": 438,
     "timeYear": 457,
     "dailyMinutesDown": {}
   },
@@ -154,7 +153,7 @@
     "time": 468,
     "timeDay": 414,
     "timeWeek": 374,
-    "timeMonth": 473,
+    "timeMonth": 475,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2024-12-16": 123
