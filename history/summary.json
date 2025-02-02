@@ -61,9 +61,9 @@
     "url": "https://bosquedigital.cl",
     "icon": "https://icons.duckduckgo.com/ip3/bosquedigital.cl.ico",
     "slug": "bosque-digital",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
@@ -73,6 +73,7 @@
     "timeMonth": 1478,
     "timeYear": 1482,
     "dailyMinutesDown": {
+      "2025-02-02": 0,
       "2024-12-03": 149
     }
   },
@@ -100,11 +101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mosaicos.bosquedigital.cl.ico",
     "slug": "bd-chillan",
     "status": "up",
-    "uptime": "95.41%",
+    "uptime": "95.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.41%",
+    "uptimeYear": "95.42%",
     "time": 383,
     "timeDay": 685,
     "timeWeek": 456,
